@@ -2,6 +2,9 @@
 
 The app utilises external [OpenWeatherAPI](https://openweathermap.org/api) and in-build [Navigator API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) to check weather conditions at one's current location. Here, one might find some usefull info about the app.
 
+## Deployment URL
+Click [here](https://www.weather-for-coordinates.xyz/) to visit the deployed app.
+
 ## How to use the code
 
 In order to deploy this app in development/production mode on your machine, please follow these simple steps:
